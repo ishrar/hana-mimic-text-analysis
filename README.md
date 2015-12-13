@@ -1,6 +1,6 @@
 # HANA-MIMIC Text Analysis Projects
 
-This repo will contains a collection of software projects that I built as part of my research at [MIT](http://web.mit.edu/) with the [MIT-LCP research lab](http://lcp.mit.edu/).
+This repo will contains a collection of Natural Language Processing-related software projects that I built as part of my research at [MIT](http://web.mit.edu/) with the [MIT-LCP research lab](http://lcp.mit.edu/).
 
 ## License
 
